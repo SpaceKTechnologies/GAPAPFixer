@@ -61,4 +61,5 @@ Please follow the Google Java Style Guide!
 ## Roadmap
 
 Ultimately, this utility will be config-file based, for know it is hardcoded only for Airplane Plus.
-
+However, then the name would probably not fit anymore and it would be rather a 'GAPPartsPatcher' or 
+something.
